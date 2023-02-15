@@ -1,0 +1,9 @@
+! name: Googgle Maps
+! description: Boost google maps results
+! public: true
+! author: ozaki
+! avatar: #2196F3
+
+
+$site=maps.google.com,boost=10
+$site=www.google.com/maps,boost=10
