@@ -1,0 +1,16 @@
+! name: WebDev
+! description: Boost quality web dev results
+! public: true
+! author: ozaki
+! avatar: #2196F3
+
+! Banger sites
+$site=developer.mozilla.org,boost=10
+$site=css-tricks.com,boost=9
+$site=web.dev,boost=8
+
+
+! Shit sites
+$discard,site=www.w3schools.com
+$discard,site=www.w3schools.in
+$discard,site=fr.w3docs.com
