@@ -14,6 +14,8 @@ Goggles enable anyone, be it individuals or a community, to alter the ranking of
 
 ## Create a Goggle
 
+More detailed goggle can be found [here](https://github.com/brave/goggles-quickstart/blob/main/goggles/quickstart.goggle)
+
 ```text
 ! name: My Goggle
 ! description: What my Goggle does
