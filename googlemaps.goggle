@@ -7,3 +7,7 @@
 
 $site=maps.google.com,boost=10
 /maps$boost=10,site=www.google.com
+/maps$boost=10,site=www.google.fr
+
+! *google*$boost=10,inurl
+! *maps*$boost=10,inurl
